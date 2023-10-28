@@ -19,6 +19,7 @@
   "homepage": "https://github.com/sunspla-sh/nodeschool-stream-adventure#readme",
   "dependencies": {
     "concat-stream": "^2.0.0",
+    "duplexer2": "^0.1.4",
     "split2": "^4.2.0",
     "through2": "^4.0.2",
     "trumpet": "^1.7.2",
